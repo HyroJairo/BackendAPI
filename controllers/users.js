@@ -43,4 +43,3 @@ export const updateUser = (req, res) => {
 
     res.send(`User with the id ${id} has been updated`);
 }
-
